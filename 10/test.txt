@@ -1,0 +1,1000 @@
+/
+/.com.apple.backupd.mvlist.plist
+/.com_kaspersky_iswift_journal
+/.dbfseventsd
+/.DocumentRevisions-V100
+/.DS_Store
+/.file
+/.fseventsd
+/.PKInstallSandboxManager
+/.Spotlight-V100
+/.Trashes
+/.vol
+/Applications
+/Applications/.DS_Store
+/Applications/.localized
+/Applications/1Password.app
+/Applications/1Password.app/Contents
+/Applications/1Password.app/Contents/_CodeSignature
+/Applications/1Password.app/Contents/_CodeSignature/CodeResources
+/Applications/1Password.app/Contents/_MASReceipt
+/Applications/1Password.app/Contents/_MASReceipt/receipt
+/Applications/1Password.app/Contents/Import
+/Applications/1Password.app/Contents/Import/1Password_Interchange_File_(.1pif).rb
+/Applications/1Password.app/Contents/Import/1Password_Interchange_File_(.1pif).rb.html
+/Applications/1Password.app/Contents/Import/1Password_Interchange_File_(.1pif).rb.png
+/Applications/1Password.app/Contents/Import/AppShelf.rb
+/Applications/1Password.app/Contents/Import/AppShelf.rb.html
+/Applications/1Password.app/Contents/Import/AppShelf.rb.png
+/Applications/1Password.app/Contents/Import/autoID.rb
+/Applications/1Password.app/Contents/Import/autoID.rb.html
+/Applications/1Password.app/Contents/Import/autoID.rb.png
+/Applications/1Password.app/Contents/Import/Cloak_or_TurboPasswords.rb
+/Applications/1Password.app/Contents/Import/Cloak_or_TurboPasswords.rb.html
+/Applications/1Password.app/Contents/Import/Cloak_or_TurboPasswords.rb.png
+/Applications/1Password.app/Contents/Import/CSV_or_Delimited_Text.rb
+/Applications/1Password.app/Contents/Import/CSV_or_Delimited_Text.rb.html
+/Applications/1Password.app/Contents/Import/CSV_or_Delimited_Text.rb.png
+/Applications/1Password.app/Contents/Import/eWallet.rb
+/Applications/1Password.app/Contents/Import/eWallet.rb.html
+/Applications/1Password.app/Contents/Import/eWallet.rb.png
+/Applications/1Password.app/Contents/Import/Firefox.rb
+/Applications/1Password.app/Contents/Import/Firefox.rb.html
+/Applications/1Password.app/Contents/Import/Firefox.rb.png
+/Applications/1Password.app/Contents/Import/Google_Chrome.rb
+/Applications/1Password.app/Contents/Import/Google_Chrome.rb.html
+/Applications/1Password.app/Contents/Import/Google_Chrome.rb.png
+/Applications/1Password.app/Contents/Import/images
+/Applications/1Password.app/Contents/Import/images/ImportFirefoxPasswords.jpg
+/Applications/1Password.app/Contents/Import/images/LicenseKeeper-File-Export.png
+/Applications/1Password.app/Contents/Import/images/LicenseKeeper-Settings.png
+/Applications/1Password.app/Contents/Import/images/PasswordPlus-Export.jpg
+/Applications/1Password.app/Contents/Import/images/PasswordSafe-Export.jpg
+/Applications/1Password.app/Contents/Import/images/Roboform-Passcards-PrintList.jpg
+/Applications/1Password.app/Contents/Import/images/Roboform-Passcards-Save.jpg
+/Applications/1Password.app/Contents/Import/images/Roboform-SafeNotes-PrintList.jpg
+/Applications/1Password.app/Contents/Import/images/Roboform-SafeNotes-Save.jpg
+/Applications/1Password.app/Contents/Import/images/SplashID-Export.png
+/Applications/1Password.app/Contents/Import/KeePass.rb
+/Applications/1Password.app/Contents/Import/KeePass.rb.html
+/Applications/1Password.app/Contents/Import/KeePass.rb.png
+/Applications/1Password.app/Contents/Import/KeePassX.rb
+/Applications/1Password.app/Contents/Import/KeePassX.rb.html
+/Applications/1Password.app/Contents/Import/KeePassX.rb.png
+/Applications/1Password.app/Contents/Import/lib
+/Applications/1Password.app/Contents/Import/lib/base.rb
+/Applications/1Password.app/Contents/Import/lib/csv.rb
+/Applications/1Password.app/Contents/Import/lib/export_safari_keychain_logins.rb
+/Applications/1Password.app/Contents/Import/lib/json
+/Applications/1Password.app/Contents/Import/lib/json/add
+/Applications/1Password.app/Contents/Import/lib/json/add/core.rb
+/Applications/1Password.app/Contents/Import/lib/json/add/rails.rb
+/Applications/1Password.app/Contents/Import/lib/json/common.rb
+/Applications/1Password.app/Contents/Import/lib/json/pure
+/Applications/1Password.app/Contents/Import/lib/json/pure/generator.rb
+/Applications/1Password.app/Contents/Import/lib/json/pure/parser.rb
+/Applications/1Password.app/Contents/Import/lib/json/pure.rb
+/Applications/1Password.app/Contents/Import/lib/json/version.rb
+/Applications/1Password.app/Contents/Import/lib/json.rb
+/Applications/1Password.app/Contents/Import/lib/plist.rb
+/Applications/1Password.app/Contents/Import/LicenseKeeper.rb
+/Applications/1Password.app/Contents/Import/LicenseKeeper.rb.html
+/Applications/1Password.app/Contents/Import/LicenseKeeper.rb.png
+/Applications/1Password.app/Contents/Import/Password_Safe_3.rb
+/Applications/1Password.app/Contents/Import/Password_Safe_3.rb.html
+/Applications/1Password.app/Contents/Import/Password_Safe_3.rb.png
+/Applications/1Password.app/Contents/Import/Password_Wallet.rb
+/Applications/1Password.app/Contents/Import/Password_Wallet.rb.html
+/Applications/1Password.app/Contents/Import/Password_Wallet.rb.png
+/Applications/1Password.app/Contents/Import/Passwords_Plus.rb
+/Applications/1Password.app/Contents/Import/Passwords_Plus.rb.html
+/Applications/1Password.app/Contents/Import/Passwords_Plus.rb.png
+/Applications/1Password.app/Contents/Import/RoboForm_Passcards.rb
+/Applications/1Password.app/Contents/Import/RoboForm_Passcards.rb.html
+/Applications/1Password.app/Contents/Import/RoboForm_Passcards.rb.png
+/Applications/1Password.app/Contents/Import/RoboForm_Safenotes.rb
+/Applications/1Password.app/Contents/Import/RoboForm_Safenotes.rb.html
+/Applications/1Password.app/Contents/Import/RoboForm_Safenotes.rb.png
+/Applications/1Password.app/Contents/Import/Safari.rb
+/Applications/1Password.app/Contents/Import/Safari.rb.html
+/Applications/1Password.app/Contents/Import/Safari.rb.png
+/Applications/1Password.app/Contents/Import/SplashID.rb
+/Applications/1Password.app/Contents/Import/SplashID.rb.html
+/Applications/1Password.app/Contents/Import/SplashID.rb.png
+/Applications/1Password.app/Contents/Import/style.css
+/Applications/1Password.app/Contents/Import/Web_Confidential.rb
+/Applications/1Password.app/Contents/Import/Web_Confidential.rb.html
+/Applications/1Password.app/Contents/Import/Web_Confidential.rb.png
+/Applications/1Password.app/Contents/Info.plist
+/Applications/1Password.app/Contents/Library
+/Applications/1Password.app/Contents/Library/LoginItems
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/_CodeSignature
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/_CodeSignature/CodeResources
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Info.plist
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/MacOS
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/MacOS/1Password Helper
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/PkgInfo
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/1p_cropped.png
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/1Password Helper.entitlements
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/1Password.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/1Password.icns
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ar.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/container-migration.plist
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/cs.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/da.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/DropboxSetup.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/de.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/diagnostics.rb
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/diagnostics_generation_in_progress.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/DomainRules.js
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/en.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/DropboxSetup.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/es.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fa.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fi.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/DropboxSetup.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/fr.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/he.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/DropboxSetup.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/it.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/DropboxSetup.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ja.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/DropboxSetup.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/ko.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/MainMenu.nib
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/menubar-icon-selected.png
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/menubar-icon-selected@2x.png
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/menubar-icon.png
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/menubar-icon@2x.png
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_InstantMessenger.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_InternetServiceProvider.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_iTunes.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_MobileMe.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_MySQL.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_Router.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Account_UnixServer.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/AddWalletItem.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/AppDescription.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/BrowserExtensions.html
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/ConflictWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/ExportPanel.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/ExportTXT.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/GeneratedPasswordDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/GeneratePassword.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/IdentitiesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/ImportAssistant.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Keywords.txt
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Localizable.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/LoginsDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/MainMenu.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/MainWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/MessageDialog.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Newsletter.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/OPWPopupCalendar.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Preferences.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Progress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/SecureNotesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/ShortcutRecorder.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/SoftwareLicensesDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/StandAloneDetailViewWindow.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/UnlockKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_BankAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_BankAccountAU.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_BankAccountCA.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_BankAccountCH.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_BankAccountDE.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_BankAccountUK.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_CreditCard.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_DriverLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_HuntingLicense.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_Identity.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_License.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_Membership.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_Passport.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_Rewards.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/Wallet_SSN.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/WalletDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/WelcomeChooseNewOrExisting.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/WelcomeSetupKeychain.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/WiFiSyncAuth.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/WiFiSyncDetailView.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/nl.lproj/WiFiSyncIPAddress.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/no.lproj
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/no.lproj/About.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/no.lproj/Account_AmazonS3.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/no.lproj/Account_Database.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/no.lproj/Account_Email.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/no.lproj/Account_Email.v2.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/no.lproj/Account_FTP.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/no.lproj/Account_GenericAccount.strings
+/Applications/1Password.app/Contents/Library/LoginItems/1Password Helper.app/Contents/Resources/no.lproj/Account_InstantMessenger.strings
