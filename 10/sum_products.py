@@ -35,7 +35,7 @@ def sum_products(filename):
             count = int(parts[1])
             last_count = results.get(title, 0)
             results[title] = last_count + count
-    return resuilts
+    return results
 
 def print_results(results):
     for key, value in sorted(results.items(), operator.itemgetter(1)):
