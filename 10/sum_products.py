@@ -2,6 +2,7 @@ import sys
 import argparse
 import traceback
 import logging
+from operator import itemgetter, attrgetter
 
 class ArgumentParse(object):
     """
@@ -38,7 +39,7 @@ def sum_products(filename):
     return results
 
 def print_results(results):
-    for key, value in sorted(results.items(), operator.itemgetter(1)):
+    for key, value in sorted(results.items(), key=itemgetter(1)):
         print(key, value)
 
 def main():
